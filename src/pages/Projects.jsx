@@ -9,7 +9,7 @@ export default function Projects() {
             
             <div className="projects-grid">
                 <div className="project-card">
-                    <img src="https://via.placeholder.com/400x300" alt="Boltshift Project"></img>
+                    <img src="project1.jpeg" alt="Boltshift Project"></img>
                     <div className="project-overlay">
                         <h3>Boltshift</h3>
                         <p>Unlock Seamless Project Management with Quad</p>
@@ -17,7 +17,7 @@ export default function Projects() {
                     </div>
                 </div>
                 <div className="project-card">
-                    <img src="https://via.placeholder.com/400x300" alt="Lightbox Project"></img>
+                    <img src="project2.jpeg" alt="Lightbox Project"></img>
                     <div className="project-overlay">
                         <h3>Lightbox</h3>
                         <p>Unlock Seamless Project Management with Quad</p>
@@ -25,7 +25,7 @@ export default function Projects() {
                     </div>
                 </div>
                 <div className="project-card">
-                    <img src="https://via.placeholder.com/400x300" alt="FeatherDev Project"></img>
+                    <img src="project3.jpeg" alt="FeatherDev Project"></img>
                     <div className="project-overlay">
                         <h3>FeatherDev</h3>
                         <p>Unlock Seamless Project Management with Quad</p>
@@ -33,7 +33,22 @@ export default function Projects() {
                     </div>
                 </div>
                 <div className="project-card">
-                    <img src="https://via.placeholder.com/400x300" alt="GlobalBank Project"></img>
+                    <img src="project4.jpeg" alt="GlobalBank Project"></img>
+                    <div className="project-overlay">
+                        <h3>GlobalBank</h3>
+                        <p>Unlock Seamless Project Management with Quad</p>
+                        <a href="#" className="view-more">VIEW MORE PROJECT</a>
+                    </div>
+                </div>
+                <div className="project-card">
+                    <img src="project5.jpeg" alt="GlobalBank Project"></img>
+                    <div className="project-overlay">
+                        <h3>GlobalBank</h3>
+                        <p>Unlock Seamless Project Management with Quad</p>
+                        <a href="#" className="view-more">VIEW MORE PROJECT</a>
+                    </div>
+                </div><div className="project-card">
+                    <img src="project6.jpeg" alt="GlobalBank Project"></img>
                     <div className="project-overlay">
                         <h3>GlobalBank</h3>
                         <p>Unlock Seamless Project Management with Quad</p>

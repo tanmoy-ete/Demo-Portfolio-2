@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaGithub } from 'react-icons/fa';
 export default function Hero() {
     return(

@@ -55,7 +55,7 @@ export default function Rating() {
 
   return (
     <section className="testimonials" id="Testimonials">
-      <div className="container">
+      <div className="container" id="testi-container">
         <h3 className="section-subtitle">MY TESTIMONIALS</h3>
         <h2 className="section-title">CLIENT LOVED TESTIMONIAL</h2>
 

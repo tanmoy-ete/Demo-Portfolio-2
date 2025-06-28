@@ -3,7 +3,7 @@ import { BiSolidHandRight } from "react-icons/bi";
 export default function About() {
     return(
         <section className="about" id="About">
-        <div className="container">
+        <div className="container" id="About-container">
             <h3 className="section-subtitle">ABOUT ME</h3>
             <h2 className="section-title">Best Skills On:</h2>
             <p className="about-text">At Sift, we understand that success is just about delivering a product - it's about building relationships and making a meaningful impact of client.</p>
